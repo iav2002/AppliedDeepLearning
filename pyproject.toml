@@ -1,0 +1,16 @@
+[project]
+name = "applied-deep-learning"
+version = "0.1.0"
+description = "Applied Deep Learning assignment, age estimation from face images"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0",
+    "torchvision>=0.15",
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "pillow>=10.0",
+    "matplotlib>=3.7",
+    "scikit-learn>=1.3",
+    "jupyter>=1.0",
+    "ipykernel>=6.0",
+]
